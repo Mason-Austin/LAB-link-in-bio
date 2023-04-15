@@ -30,3 +30,8 @@ button{
 #instagram, #tiktok, #reddit,#youtube{
   width: 5%;
 }
+
+button{
+  border-color: black !important;
+  background-color: rgba(0, 0, 255, .4) !important;
+}
