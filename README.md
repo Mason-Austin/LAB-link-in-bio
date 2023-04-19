@@ -12,7 +12,7 @@ You will be building Link Landing page
 
 ## Requirments
 - Use Bootstrap [block-buttons](https://getbootstrap.com/docs/5.1/components/buttons/#block-buttons) to build your landing page.
-- The page should be a static HTML Page with CSS.
+- The page should be a static HTML Page with CSS
 
 Here is an example:
 
